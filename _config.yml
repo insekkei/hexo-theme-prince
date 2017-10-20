@@ -4,12 +4,13 @@ description: Keep it short. Keep it simple.
 favicon: /fav.png
 ga: ''
 
+# Directory
+root: /dairy/
+
 #nav
 nav:
     HOME: /
     ARCHIVE: /archives/
-    GALLERY:  /gallery/
-    ABOUT: /about/
 
 #post
 excerpt_link: Continue Reading
@@ -24,4 +25,3 @@ weibo: http://weibo.com/kathleenxiao
 
 #copyright
 themeLink: https://github.com/yiliashaw/hexo-theme-prince
-
